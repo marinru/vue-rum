@@ -1,0 +1,19 @@
+.rum-data-grid {
+    &__grid {        
+        width: 10000px;
+        border-spacing: 0;
+        border-collapse: collapse;
+    }
+
+    &__header {
+        padding: 0;
+    }
+
+    &__header-cell {
+        padding: 0;
+    }
+
+    &__cell {
+        padding: 0;
+    }
+}
